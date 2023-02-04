@@ -1,4 +1,4 @@
-# HealthQuest
+# Growy
 
 A new Flutter project.
 
