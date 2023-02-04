@@ -1,6 +1,6 @@
 {
-    "name": "HealthQuest",
-    "short_name": "HealthQuest",
+    "name": "Growy",
+    "short_name": "Growy",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

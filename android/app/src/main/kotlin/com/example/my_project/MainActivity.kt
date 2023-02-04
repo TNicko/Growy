@@ -1,4 +1,4 @@
-package com.mycompany.healthquest
+package com.mycompany.growy
 
 import io.flutter.embedding.android.FlutterActivity
 
